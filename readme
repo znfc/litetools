@@ -1,0 +1,3 @@
+adb shell bugreport >bugreport.txt
+
+一定要带上 shell
